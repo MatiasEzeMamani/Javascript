@@ -1,0 +1,94 @@
+.container {
+    display: inline-block;
+    margin-top: 0;
+    width: 970px;
+    background-color: #141687;
+    margin: 0px 10px;
+    border: 1px solid #ccc;
+}
+
+.subrayar {
+    text-decoration: underline;
+    color: #00cfc5;
+}
+
+
+header{
+    margin: 10px 8px 20px 8px;
+    background-color: #ff3c3c;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+
+header h1 {
+    color: #ffffff;
+    margin: 0;
+    margin-left: 10px;
+}
+
+/* Selection */
+
+section {
+    display: inline-block;
+    height: 560px;
+    width: 970px;
+}
+
+.left {
+    display: inline-block;
+    height: auto;
+    width: auto;
+    vertical-align: top;
+    margin-left: 8px;
+    margin-right: 10px;
+    background-color: #2d746e;
+    border-radius: 20px;
+}
+
+.left h5 {
+    margin: 22px 0 0 5px;
+}
+
+.lista_left {
+    padding-inline-start: 25px;
+    margin-top: 0;
+}
+
+.right {
+    background-color: #07083d;
+    display: inline-block;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    height: 540px;
+    width: 720px;
+    color: #b4f1ec;
+    padding-right: 20px;
+}
+
+.right h2 {
+    margin-left: 20px;
+    margin: 18px 0 10px 20px;
+}
+
+.right_listas {
+    margin: 10px;
+}
+
+.right p {
+    margin: 0 0 15px 20px;
+}
+
+/* Footer */
+
+footer{
+    margin: 0 8px 10px 8px;
+    background-color: #877979;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+
+footer h5 {
+    color: #ffffff;
+    margin: 5px 0 5px 10px;
+    margin-left: 10px;
+}
